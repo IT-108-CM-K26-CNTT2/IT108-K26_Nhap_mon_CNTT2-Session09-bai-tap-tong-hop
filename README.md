@@ -3,7 +3,7 @@
 ## Phần 1 – Khung sườn README
 
 ````markdown
-# 📱 SmartCampus
+#  SmartCampus
 
 **SmartCampus** là ứng dụng di động giúp sinh viên PTIT tra cứu *lịch học*, phòng trống và nhận thông báo mới nhất từ nhà trường.
 
@@ -17,7 +17,7 @@ Trang chủ CLB: [CLB Lập trình](https://clblaptrinh.ptit.edu.vn)
 
 ![Logo SmartCampus](https://clblaptrinh.ptit.edu.vn/logo.png)
 
-> ⚠️ **Cảnh báo:** Dự án đang trong giai đoạn phát triển, chưa dùng cho mục đích chính thức.
+>  **Cảnh báo:** Dự án đang trong giai đoạn phát triển, chưa dùng cho mục đích chính thức.
 
 ---
 ````
